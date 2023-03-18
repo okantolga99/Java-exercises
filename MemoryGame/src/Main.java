@@ -42,11 +42,14 @@ public class Main {
         System.out.println("Second guess (type i and j with a space....");
         int i2 = scanner.nextInt();
         int j2 = scanner.nextInt();
-        if (cards[i1][j1].getValue() == cards[i2][j2].getValue()){
-            cards[i2][j2].setGuess(true);
-        }else {
+        cards[i2][j2].setGuess(true);
+        gameBoard();
+
+        if (cards[i1][j1].getValue() != cards[i2][j2].getValue()){
             cards[i1][j1].setGuess(false);
+            cards[i2][j2].setGuess(false);
         }
+
 
     }
     public static boolean gameFinish(){
