@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-exercises.iml" filepath="$PROJECT_DIR$/.idea/Java-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemoryGame/MemoryGame.iml" filepath="$PROJECT_DIR$/MemoryGame/MemoryGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student Grading System/Student Grading System.iml" filepath="$PROJECT_DIR$/Student Grading System/Student Grading System.iml" />
+    </modules>
+  </component>
+</project>
